@@ -1,3 +1,7 @@
+---
+title: Adding Template Settings
+---
+
 # Adding Template Settings
 
 Within FlowForge, each Project is created from a Template. The Template defines

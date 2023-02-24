@@ -1,4 +1,5 @@
 ---
+title: Installing FlowForge
 navGroup: Running FlowForge
 navTitle: Installing FlowForge
 ---

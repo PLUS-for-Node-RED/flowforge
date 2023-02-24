@@ -1,3 +1,7 @@
+---
+title: API Design
+---
+
 # HTTP API of the FlowForge platform
 
 ## Object Ids

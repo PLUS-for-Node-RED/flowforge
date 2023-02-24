@@ -1,3 +1,7 @@
+---
+title: Reset Password Flow
+---
+
 # Reset Password Flow
 
 ```mermaid

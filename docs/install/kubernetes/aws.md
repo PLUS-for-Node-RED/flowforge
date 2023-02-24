@@ -1,3 +1,7 @@
+---
+title: AWS EKS Installation
+---
+
 # AWS EKS Specific details
 
 This document includes details of installing FlowForge on AWS EKS

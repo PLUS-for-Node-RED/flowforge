@@ -1,4 +1,5 @@
 ---
+title: Upgrading FlowForge
 navGroup: Running FlowForge
 navTitle: Upgrading FlowForge
 ---

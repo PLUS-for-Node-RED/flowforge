@@ -1,3 +1,7 @@
+---
+title: FlowForge Device Agent
+---
+
 # Devices
 
 The FlowForge platform can be used to manage projects running on remote Devices.

@@ -1,3 +1,7 @@
+---
+title: Add Project Stacks on Docker
+---
+
 # Docker Project Stacks
 
 A Project Stack defines a set of platform configuration options that will get

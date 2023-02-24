@@ -1,3 +1,7 @@
+---
+title: Digital Ocean Kubernetes Installation
+---
+
 # Installing FlowForge on a Digital Ocean Kubernetes cluster
 
 ## Prerequisites

@@ -1,3 +1,7 @@
+---
+title: Documentation
+---
+
 # FlowForge Docs
 
 FlowForge is an open-source low-code platform based on the OpenJS Foundation Node-RED

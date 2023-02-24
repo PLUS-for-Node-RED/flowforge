@@ -1,3 +1,7 @@
+---
+title: Teams
+---
+
 # Teams
 
 Teams are groups of users that collaborate on their projects.

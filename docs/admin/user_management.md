@@ -1,3 +1,7 @@
+---
+title: User Management
+---
+
 # User management
 
 ## User registration

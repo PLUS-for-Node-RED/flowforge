@@ -1,3 +1,7 @@
+---
+title: Snapshots
+---
+
 # Snapshots
 
 A Project Snapshot is a point-in-time backup of a project. It captures the flows,

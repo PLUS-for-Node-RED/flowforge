@@ -1,3 +1,7 @@
+---
+title: Invite External User Flow
+---
+
 # Invite External User Flow
 
 ```mermaid

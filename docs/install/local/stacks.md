@@ -1,3 +1,7 @@
+---
+title: Local Project Stacks
+---
+
 # Local Project Stacks
 
 A Project Stack defines a set of platform configuration options that will get

@@ -1,4 +1,5 @@
 ---
+title: Contributing to FlowForge
 navGroup: Overview
 navTitle: Contributing to FlowForge
 ---

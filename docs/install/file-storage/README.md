@@ -1,3 +1,7 @@
+---
+title: FlowForge File Storage
+---
+
 # FlowForge File Storage
 
 When running in container-based environments, such as Docker or Kubernetes,

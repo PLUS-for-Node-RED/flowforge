@@ -1,3 +1,7 @@
+---
+title: FlowForge Node-RED Tools plugin
+---
+
 # FlowForge Node-RED Tools plugin
 
 The Node-RED Tools Plugin is a module you can install into any Node-RED instance

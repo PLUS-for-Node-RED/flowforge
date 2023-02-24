@@ -1,3 +1,7 @@
+---
+title: Configuring FlowForge
+---
+
 # Configuring FlowForge
 
 The base configuration of the FlowForge platform is provided in the file

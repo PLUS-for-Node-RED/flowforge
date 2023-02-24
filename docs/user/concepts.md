@@ -1,3 +1,7 @@
+---
+title: FlowForge Concepts
+---
+
 # FlowForge Concepts
 
 FlowForge makes it easy to create and manage Node-RED instances. To do that, there

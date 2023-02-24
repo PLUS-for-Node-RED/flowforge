@@ -1,3 +1,7 @@
+---
+title: Changing the Stack
+---
+
 # Changing the Stack
 
 [Project Stacks](concepts.md#project-stack) define various aspects of how the project is run - including the version of Node-RED being used.

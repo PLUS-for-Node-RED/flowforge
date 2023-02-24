@@ -1,3 +1,7 @@
+---
+title: Telemetry
+---
+
 # Usage Telemetry
 
 The platform shares anonymous usage information with us at FlowForge. This helps

@@ -1,3 +1,7 @@
+---
+title: FlowForge File Nodes
+---
+
 # FlowForge File Nodes
 
 Projects running within FlowForge include a set of nodes that make it possible

@@ -1,3 +1,7 @@
+---
+title: Project Settings
+---
+
 # Project Settings
 
 The Project Settings allow you to customize many aspects of your Node-RED runtime.
